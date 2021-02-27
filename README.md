@@ -1,6 +1,6 @@
 ## Cool Pig Game Tutorial
 
-Cool Pig is a simple yet fun game intended to teach people 12 and older the basics of programming and game development using nothing but a browser, the free open source [Phaser.io](http://www.phaser.io/) game framework, JavaScript and HTML.
+Cool Pig is a simple yet fun game intended to teach people 12 and older the basics of programming and game development using nothing but a browser, the free open source [Phaser.io](http://www.phaser.io/){:target="_blank" rel="noopener"} game framework, JavaScript and HTML.
 
 ![Cool Pig Game Play](images/CougarChase.gif)
 
